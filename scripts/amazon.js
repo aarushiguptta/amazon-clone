@@ -1,4 +1,4 @@
-
+import{cart} from '../data/cart.js'
 
 let productsHTML = '';   //combinign all HTML to this variable
 
