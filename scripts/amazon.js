@@ -1,5 +1,5 @@
-import{cart} from '../data/cart.js'
-
+import { cart } from '../data/cart.js'
+import { products } from '../data/products.js'
 let productsHTML = '';   //combinign all HTML to this variable
 
 products.forEach((product) => {
